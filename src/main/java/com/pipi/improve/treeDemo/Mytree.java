@@ -4,6 +4,7 @@ package com.pipi.improve.treeDemo;
  * Created by pipi on 2017/4/16.
  */
 public class Mytree {
+
     String data ;
 
     Mytree leftChild = null;
