@@ -24,7 +24,7 @@ public class ProducerThread extends Thread {
                 e.printStackTrace();
             }
         }
-//        Long factorialAddition = addition(dataSet.getMaxNum());
+//        testlong factorialAddition = addition(dataSet.getMaxNum());
 //        dataSet.setFactorialAddition(factorialAddition);
     }
 
