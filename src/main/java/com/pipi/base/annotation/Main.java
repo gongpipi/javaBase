@@ -31,7 +31,7 @@ public class Main {
                     }
                 }
             }
-        } catch (SecurityException | ClassNotFoundException e) {
+        } catch (Exception e) {
             e.printStackTrace();
         }
     }
